@@ -54,7 +54,7 @@ python src/main.py
 
 ## Autor
 
-Cristina Pazmiño Torres
+ALEX NARANJO
 
 Instituto Tecnológico Superior España
 
